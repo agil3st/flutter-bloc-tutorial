@@ -1,4 +1,4 @@
-# flutter_counter
+# BLoC Exercise
 
 BLoC pattern exercise according to this [BLoC tutorial](https://bloclibrary.dev/)
 
